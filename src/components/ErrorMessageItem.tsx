@@ -15,7 +15,7 @@ export default ({ data, onRetry }: Props) => {
         <div class="fie px-3 mb-2">
           <div onClick={onRetry} class="gpt-retry-btn border-red/50 text-red">
             <IconRefresh />
-            <span>Regenerate</span>
+            <span>Rigenera</span>
           </div>
         </div>
       )}
